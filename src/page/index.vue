@@ -4,8 +4,8 @@
       <img src="/img/nav-img.png" alt="" width="100%" height="220px">
       <div class="title">
         <p>
-          WELECOMT TO AVUE-DATA<br />
-          <small>可视化数据大屏（demo）</small>
+          WELECOMT TO CAIKA-DATA<br />
+          <small>可视化数据大屏（财咖科技）</small>
         </p>
       </div>
       <navs @change="handleChange"></navs>
@@ -49,6 +49,7 @@ export default {
     }
   },
   methods: {
+    //tab切换
     handleChange (nav, index) {
       this.activeName = index;
     }
