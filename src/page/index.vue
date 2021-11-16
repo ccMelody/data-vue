@@ -1,4 +1,5 @@
 <template>
+<!-- 横向tab入口文件 -->
   <div class="index">
     <div class="header">
       <img src="/img/nav-img.png" alt="" width="100%" height="220px">

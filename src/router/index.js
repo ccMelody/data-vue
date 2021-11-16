@@ -9,6 +9,18 @@ const routes = [
     name: 'list',
     component: ()=>import('@/page/index')
   },
+  {
+    path: '/create',
+    name: 'create',
+    component: () =>
+      import( /* webpackChunkName: "page" */ '@/page/create')
+  },
+  {
+    path: '/build/:id',
+    name: 'build',
+    component: () =>
+      import( /* webpackChunkName: "page" */ '@/page/build')
+  }
   
 ]
 
