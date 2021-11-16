@@ -1,0 +1,3471 @@
+{
+  "visual": {
+    "id": "1452520953504145409",
+    "backgroundUrl": "https://oss.bladex.vip/caster/upload/20211116/ce24d6589bd9bdb4da4686757733aad2.jpg"
+  },
+  "config": {
+    "id": "1452520953512534018",
+    "visualId": "1452520953504145409",
+    "detail": {
+      "name": "别删别删 ",
+      "width": 1920,
+      "height": 1080,
+      "scale": 97.13541666666666,
+      "backgroundImage ": " / img / bg / bg3.png ",
+      "url": "",
+      "mark": {},
+      "gradeShow": false,
+      "gradeLen": 30,
+      "query": {},
+      "backgroundColor ": "rgba(0, 0, 0, 1)"
+    },
+    "component": [
+      {
+        "title ": "翻牌器 ",
+        "name ": "翻牌器 ",
+        "icon ": "icon - flop ",
+        "img ": "data: image / png;base64,iVBORw0KGgoAAAANSUhEUgAAASgAAADXCAIAAAAm1ls2AAAACXBIWXMAAACHAAAAhwGdEjxIAAAAIGNIUk0AAHolAACAgwAA + f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAxcSURBVHja7N1tjFxVGcDx59x7Z3Zmd6c7s3R32RbabZWku0BExIgvQbrVD2qCRl4SiYmWNpqYGO0LqKFpjDYayJYaNYrarQYiIYr6QSAE2G00CkSghAC75aXtQmm3tLAz3dd5ufccP9yZ2dnZbssMc6fd9v / rl + 3 N7jw9557nnufce7tHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAjqPG6b7YSccLTsYLgxlp2eqOLTmq79QjY9XXrEiJl6 + hExRkSUUuForCax7Hib1dVTdjAzMpQ7esD / uqFxSflZVMoYU10vha76bNmR3LGRzMGXFoolIsqyjfaqiNVwda + e + 4 Nu6kR66JnTxLJDYS + XrSJW9JrPuW6u9IhOT03vGzxHBqdzfl9XWjpW5HOkmC2ejjS3SIXDVFlWeM3HL / ryt2cvWEpEmze + lDCeu2AsraPNcW10RbGsWGvLjx + U / E8pP7He / cOdyb / +opDPzdFYa2kgP1Y1113Lnh / r5MN / OP7L7 + fHRzjSlGgvi6W1VlXFin33HiveVhpr + vmBIz + 6 Id9w24ktXVYey9NKVROr6dY7nFWXl5wvlTt6cOSbV5J4dXLizeE5g1L5fyo7mUbrJQdeNM8PFJLDjn7kOqWssm8bO3LAzabnTIpKWfO + 7 Uxz6xLn2Sfy / 0B lhTpXhTpXlX2Lm02PHTlQdmmoonOM1s6zjyuVTwO7tbOhq7v8e4w + MTJck1jWvr12y0X5z4jFI5ddPe + bzPE3h0pTT1mqirrMaN320n / CY8fyHxKORq / 45 Dk1LM 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",
+        "top": 642,
+        "left": 412.8,
+        "dataType": 0,
+        "data": {
+          "value": "1250"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 74.4,
+          "height": 31.6,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#fff",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left",
+          "whole": true
+        },
+        "index": "9eb4fbdf-064d-47a7-b73c-cfb74533f597",
+        "zIndex": 94
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 606,
+        "left": 412.8,
+        "dataType": 0,
+        "data": {
+          "value": "1250"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 74.4,
+          "height": 31.6,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#fff",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left",
+          "whole": true
+        },
+        "index": "07fd8b9d-bef1-4ac5-8eb5-9d6d09fdf6d1",
+        "zIndex": 93
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 568.8,
+        "left": 412.8,
+        "dataType": 0,
+        "data": {
+          "value": "2598"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 74.4,
+          "height": 31.6,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#fff",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left",
+          "whole": true
+        },
+        "index": "76fde46a-68a6-40c5-9508-190c79a0bafd",
+        "zIndex": 92
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 526.8,
+        "left": 412.8,
+        "dataType": 0,
+        "data": {
+          "value": "20000"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 74.4,
+          "height": 31.6,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#fff",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left",
+          "whole": true
+        },
+        "index": "afa6b5f9-dd5d-4fd0-8dbb-8a3f8a8cb78e",
+        "zIndex": 91
+      },
+      {
+        "title": "文本框",
+        "name": "本年",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "本年"
+        },
+        "component": {
+          "width": 45.68,
+          "height": 28.56,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "rgba(8, 199, 241, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1252.5,
+        "top": 742.99,
+        "index": "7faf18f9-f3cc-423a-97e1-36a485fa5a18",
+        "zIndex": 90
+      },
+      {
+        "title": "文本框",
+        "name": "本月",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "本月"
+        },
+        "component": {
+          "width": 45.68,
+          "height": 28.56,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "rgba(8, 199, 241, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1176.9,
+        "top": 744.19,
+        "index": "95ca5581-58f1-47a8-bb07-006640ebd15e",
+        "zIndex": 89
+      },
+      {
+        "title": "文本框",
+        "name": "本周",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "本周"
+        },
+        "component": {
+          "width": 45.68,
+          "height": 28.56,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "rgba(8, 199, 241, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1104.9,
+        "top": 744.19,
+        "index": "e725bf89-edfb-425e-b035-4f952fc842cd",
+        "zIndex": 88
+      },
+      {
+        "title": "文本框",
+        "name": "今日",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "今日"
+        },
+        "component": {
+          "width": 45.68,
+          "height": 28.56,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "rgba(8, 199, 241, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1033.22,
+        "top": 744.19,
+        "index": "81dddd34-c553-499b-b0fe-1a563d77989f",
+        "zIndex": 87
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 748.14,
+        "left": 1171.95,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211026/65133835c974562ddb79df690b98a678.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 58.26,
+          "height": 35.6,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "e940971b-d07e-4e37-a9d2-676722aaaf2a",
+        "zIndex": 86
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 747.5,
+        "left": 1247.47,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211026/65133835c974562ddb79df690b98a678.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 58.26,
+          "height": 35.6,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "d69de369-8d0f-47a5-85ad-58d4b6aee95a",
+        "zIndex": 85
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 748.14,
+        "left": 1099.63,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211026/65133835c974562ddb79df690b98a678.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 58.26,
+          "height": 35.6,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "ce7f948b-4cf3-450c-92e3-afc06ea8ab6e",
+        "zIndex": 84
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 748.14,
+        "left": 1027.31,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211026/65133835c974562ddb79df690b98a678.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 58.26,
+          "height": 35.6,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "69c93411-452a-4044-9794-8addbdb078a3",
+        "zIndex": 83
+      },
+      {
+        "title": "文本框",
+        "name": "同比昨日：6%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "同比昨日：6%"
+        },
+        "component": {
+          "width": 137.2,
+          "height": 26.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#08c7f1",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1149.6,
+        "top": 151.2,
+        "index": "ec742dc7-ec97-45fa-95b8-3327519d93e6",
+        "zIndex": 82,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "今日收益总额",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "今日收益总额"
+        },
+        "component": {
+          "width": 124.89,
+          "height": 38.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "color": "rgba(255, 255, 255, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1150.68,
+        "top": 124.69,
+        "index": "7085041d-eebf-4bbc-8844-16cc8f9c41c1",
+        "zIndex": 81,
+        "lock": false
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASgAAADXCAIAAAAm1ls2AAAACXBIWXMAAACHAAAAhwGdEjxIAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAxcSURBVHja7N1tjFxVGcDx59x7Z3Zmd6c7s3R32RbabZWku0BExIgvQbrVD2qCRl4SiYmWNpqYGO0LqKFpjDYayJYaNYrarQYiIYr6QSAE2G00CkSghAC75aXtQmm3tLAz3dd5ufccP9yZ2dnZbssMc6fd9v/rl+3N7jw9557nnufce7tHBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAjqPG6b7YSccLTsYLgxlp2eqOLTmq79QjY9XXrEiJl6+hExRkSUUuForCax7Hib1dVTdjAzMpQ7esD/uqFxSflZVMoYU10vha76bNmR3LGRzMGXFoolIsqyjfaqiNVwda+e+4Nu6kR66JnTxLJDYS+XrSJW9JrPuW6u9IhOT03vGzxHBqdzfl9XWjpW5HOkmC2ejjS3SIXDVFlWeM3HL/ryt2cvWEpEmze+lDCeu2AsraPNcW10RbGsWGvLjx+U/E8pP7He/cOdyb/+opDPzdFYa2kgP1Y1113Lnh/r5MN/OP7L7+fHRzjSlGgvi6W1VlXFin33HiveVhpr+vmBIz+6Id9w24ktXVYey9NKVROr6dY7nFWXl5wvlTt6cOSbV5J4dXLizeE5g1L5fyo7mUbrJQdeNM8PFJLDjn7kOqWssm8bO3LAzabnTIpKWfO+7Uxz6xLn2Sfy/0BlhTpXhTpXlX2Lm02PHTlQdmmoonOM1s6zjyuVTwO7tbOhq7v8e4w+MTJck1jWvr12y0X5z4jFI5ddPe+bzPE3h0pTT1mqirrMaN320n/CY8fyHxKORq/45Dk1LM//xBMxcy6iJv+nUuOPPzDx5IP5ExkKr/7bYbEtUcoftfmxWxbLH7amwqpsIjm6/ab8aLOs1lvvaP3a7SUhiguEshnPq653RrffXIilYmtvad/0GxE1J5apWaxjfd9SYvlJHun5xPK7Hp7TLv8LUxaryhL6xG9/kL8yKrFbO7r+9HLxZBXOjCHxFkX+esYrDDjbEq3FlqUr1oh/UNU2lFv4Kr+aakq0Oyu684GM8eauXmoUyxKtRUykOb60GEvXdHR6nhEvn2PaE2NCkaagYulCLBHxtIix7VAxVnZ64uTxwyTeYpUaPWQ8LxSJxi7qDDTQzPjYydFDItK6fHXQF+rs9ERy9JCIJJatDvrum5ud8WO1tF9q2cGORu25fqzmiy4WdZZvK5J4H3DcpI3nWrYddCDtuW52plBnBpt6WhdjBV9GaO3HqkPhZ0whVrWlMon3vthOyBgtpvbXNuPmjm2/qTneZmbvWCpjdO3nB63Hn3ggfPj17MgrxdETiSUm3zsWRMJNPT84/vP16UINZoyJxhIz4+8FkQSZkaHUz76hp8aL4aOx1umJsSBGgjc+NvbTr9vF02PEiTSSeEHx3JxSlh0Ou5mZmo/R7KvPu22XWJattbZsW8QoZVl2SCRd4xw/NpK1HTN1UkSUsrTrpieSswuz2vZY8lj2tRd04caszmXSE0ldu/XknC6cTGVf3Tf7V9edmRgznquUZYyucZrn0tlX9znhSPHmkJuZPruD0xIAJB5A4gEg8QASDwCJ90FtGUwaY4wxQ3sCjrRnyMxKDmwKLNCmgWRJJDO8uz49uXs4yKaVNarurSPxapwGfWvjdcjugaQx60vfQo733mOSg1sCadc9vXOatGaDSQ5sCb4/N6zhMk7ivX+pwcH9QU+q23rjktq7VRVs3ZsSkfjabYFMDvv7i4HU5sGUiMR7tw0Gmnq7h9Z3S2p4OBX4yZrtRF/3RhJvUbmtJ3/mEusOBR5sdHCzSvTuLP59Z+8OPyE6rwygXaVjcde6HX6Sd3YHWWRu6BYZ/kf/KNdxEu/csbO3Z92u8mOPvpASkc6uwGvAnSMBp4NfZO7v77mNU03infO6O+MiMjqyM/D1ZVeniAw/HVBJ5heZg1sXW8lH4l2Ydn9qjYgMPxXwLLFlMNm3Ni6pwf5gAu0e3tAtqcGfrNtZn26L9/aV3BjeQuKhwny4sVsktbc/kGmi5LlF39p4au9WlQgmMfYMbVgjqb075hXSdUvCIJ/KkHjnmz1D/iy0o7ce80R8bV8gzy0KRWZ9WiG71iVKb2b6d2sl3rt9kc17JN5ZyzqzvltkuD8RWHlWvGGrlFL9wyLxtX21ftC8ZSBZ3yLzFHnYPywi8au/uInEw/vMOtVTr3sRG3v8AbrmxlpWZXs29MbFfw2gRF/JwToUgRuf2i+BPJIh8c6vdV2y7lnnGx5N0f0k3gVp97Dx13Vb6511UnhyEVw1O/tCzmBKRFKDm5VSicDvuGwauLEud4ZJvEWcdf4jZpUIekW0e6j8be/dQ2ZDt4ik9j26a3H34ZxbRJsGkv4rqfufWlwPEC/4xCt5291/u7d7fTAPiIpvD6/ZMP/d+iD+S8RsQ4wxftYFei+nXuJrZ5/h5V8EX4QP7pnxzksbe/L13qzU3q3qLNS3tW5Yt+qf+y778B+VWoRXkwv+92ruWpeoT+l1W4+q6yJk57rE2RqNwYbe2K3Og9fSmPEAEg8g8QCwxqtYqGOltWyVYzvuwZek1r8uX7uuUkq7rohoz1OhBtW23AlHsq+/UPNYthP2N68yRluOE1l5uUyPW9PjeiJZ806zbcctbOhhhxoiXT3ZzIw9M+mljkuttzewSvbZU04ouqonm0k72ZncibdrHkuUsguboijLdkINzHhB8dxc7M77l/c9Vt1GimdilLJmfxu/MbE77++8+xFlBbCBScnWNkpZ8rHelu1/brzyM4FseaPmBNOXXRXbdl+s95aAYhU/VolyO1Y0b7svfvP3RNX+fKnSblTi5jIkXqAzekjZdp32ZHJCyrLFCjiWPxU4IbGswLew92PZIWXZgccSIyLKDinLUUGfL3P2ByZrPIDEAy4MF8ADdCfcsfV3UthFeeJfD80896RV4UrMc7NGlCqpUU5dDjmhji33FmNN/e+xyX//3XbClcWat/yYH0lZVvwr32n+9A35my65zHu/3lzVMjgrZwqmLCt2/c0Nq6/MxxIzdu8PzcxkDWKdatUX/ej1Hbf/XnR+p67UA3e577xVi3YpEq9ujL+PXPN1X5XCTqrq7dcjRw56Fa6tQ5FGY7RSdukANcaUrhbmx7JTJxoOvpxLV7YVWzjaVDb85y1JtNE6cvm1xTTR6anMA3dX0UGhSNOpBmhJQK2N9sKrrwivvkLl+1RnH/qVv19fxbGMmZMASuXSk2WxQp2rQp2rVKHh7uBf3Fy2iljGGDU3lnaz587QVOdx2qlIY9M1ny90u7Wk7ZKTJw57Rw6Yd96q9D6nPuUTAiOZ6XERCUebWzq7ZpZ9qHiOW9ouHX/3iHv0oB49VOnsqvUpNp10sxn/YtHedXlmSau3pNU/3hRvF5HJ947ql5+qootO2S4vl3WzaRFpW9mTa467iTb/eDTW6jREJt496r3yjFQ+iE8ZS3uuf2FqXf5hs6Q1V9hKvqFxSaS55eTxw/qNF6tIcq29+XtWG62zM5Mi0tK+QpScrHwiZcZ7f/Ndenryv/8s1kvRld1TI0PGGBGjKrzinHmPUm1mYynV2NUz9dar2nOl7Lpbi1jZkaGZwhM85+IuEZk6NlLdFfSMsXJHD0wNPZNv19Jl4Wjz5OHXAorlnjgyuf+5fHe2LLUT7ZMjQ0qpKp7p1XxPWRKv0jOgZ8s1Y1raLzVai1JS4YlRlm0WTqH8nFb4TCNKjGlpW661VkpVvNW9sk+Xqv5AnG2XdsLRlo4V1T21P/1TR1UWS2vLsuIdK0y1sczCJZbthHOZ6dJ2iUi8Y4XWnqquXWVl7ZxVfyR3trdivmD+d4Ix6amTItIQjWVmJirPX6+hsTkzPblQYeOWll5G8rEW/pHTsNQCla2ISP6TZ2e/9JTWnlLKVHldOl0KpafH55a7M5lp26/bq5hSjPYs29EL7N5edlK8XMZvqe2EvcrLWqM9J9Sw0FPybHpKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcOH5/wDaOpwTkdu4IwAAAABJRU5ErkJggg==",
+        "top": 88,
+        "left": 1152,
+        "dataType": 0,
+        "data": {
+          "value": "152847"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 132,
+          "height": 34,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 34,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#08c7f1",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "whole": true
+        },
+        "index": "0e0fc581-519e-4e18-ade8-4452d93a60a6",
+        "zIndex": 80,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "同比昨日：6%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "同比昨日：6%"
+        },
+        "component": {
+          "width": 137.2,
+          "height": 26.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#08c7f1",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 879.6,
+        "top": 148.8,
+        "index": "daa5bf2d-1792-4df9-81c4-034fc5df964d",
+        "zIndex": 79,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "今日订单总额",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "今日订单总额"
+        },
+        "component": {
+          "width": 109.17,
+          "height": 34,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "color": "rgba(255, 255, 255, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 895.2,
+        "top": 123.6,
+        "index": "10e0fb00-4479-4a72-a25e-c760c98b0c20",
+        "zIndex": 78,
+        "lock": false
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 88,
+        "left": 883.2,
+        "dataType": 0,
+        "data": {
+          "value": "184753"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 132,
+          "height": 34,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 34,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#08c7f1",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "whole": true
+        },
+        "index": "b9145d6d-8fee-4742-adb9-a61e8a69f734",
+        "zIndex": 77,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "同比昨日：6%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "同比昨日：6%"
+        },
+        "component": {
+          "width": 137.2,
+          "height": 26.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#08c7f1",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 601.2,
+        "top": 150,
+        "index": "b462d83a-2760-429f-a3a4-c87ebe497c4c",
+        "zIndex": 76,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "今日订单数量",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "今日订单数量"
+        },
+        "component": {
+          "width": 100,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "color": "rgba(255, 255, 255, 1)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 616.8,
+        "top": 126,
+        "index": "cf269ebe-7deb-4cd1-8fe2-0eab925f60b8",
+        "zIndex": 75,
+        "lock": false
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 88,
+        "left": 615.6,
+        "dataType": 0,
+        "data": {
+          "value": "20470"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 110.4,
+          "height": 34,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 34,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "#08c7f1",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "whole": true
+        },
+        "index": "145146ee-e930-4dab-862f-788a90d43c59",
+        "zIndex": 74,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 76,
+        "left": 1101.42,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/3878009c6751a47ae130c0b4cd2d8696.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 240,
+          "height": 120,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "bc18a36d-0e60-4bd1-8373-2283da7fa766",
+        "zIndex": 73
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 76,
+        "left": 830.94,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/3878009c6751a47ae130c0b4cd2d8696.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 240,
+          "height": 120,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "6e142fa7-6ede-4e48-8b39-cd5dd2f753fe",
+        "zIndex": 72
+      },
+      {
+        "name": "datav",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 240,
+          "height": 120,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 556,
+        "top": 76,
+        "index": "2819ad11-1289-49bf-b2f4-df3ca3880250",
+        "zIndex": 71,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 76,
+        "left": 556,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/3878009c6751a47ae130c0b4cd2d8696.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 240,
+          "height": 120,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "0be9e60b-6962-4be9-b798-d361b11fdbe2",
+        "zIndex": 70,
+        "lock": true
+      },
+      {
+        "name": "柱状图",
+        "title": "柱状图",
+        "icon": "icon-bar",
+        "img": "/img/bar.179e480c.png",
+        "dataType": 0,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                798,
+                946,
+                875,
+                746,
+                837,
+                797,
+                946,
+                778,
+                897,
+                834,
+                923,
+                816
+              ]
+            }
+          ]
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 489.6,
+          "height": 312,
+          "name": "bar",
+          "prop": "bar"
+        },
+        "option": {
+          "gridX": 52,
+          "gridY": 38,
+          "gridX2": 7,
+          "gridY2": 0,
+          "legend": true,
+          "nameColor": "#eee",
+          "lineColor": "#eee",
+          "xNameFontSize": 14,
+          "yNameFontSize": 16,
+          "labelShow": true,
+          "labelShowColor": "#fff",
+          "labelShowFontSize": 14,
+          "labelShowFontWeight": "normal",
+          "yAxisInverse": false,
+          "xAxisInverse": false,
+          "xAxisShow": true,
+          "yAxisShow": true,
+          "xAxisSplitLineShow": false,
+          "yAxisSplitLineShow": false,
+          "barWidth": 20,
+          "barRadius": 2,
+          "barColor": [
+            {
+              "color1": "#83bff6",
+              "color2": "#188df0",
+              "postion": 90,
+              "$index": 0,
+              "_show": true
+            },
+            {
+              "color1": "#23B7E5",
+              "color2": "#564AA3",
+              "postion": 50,
+              "$index": 1,
+              "_show": true
+            }
+          ],
+          "barMinHeight": 0,
+          "titleFontSize": 10
+        },
+        "left": 1377.6,
+        "top": 741.6,
+        "index": "adebfac0-2b2a-4ea7-9d4e-0d191d0e3c19",
+        "zIndex": 69
+      },
+      {
+        "name": "折线图",
+        "title": "折线图",
+        "icon": "icon-line",
+        "img": "/img/line.d9ed6cf6.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 483.6,
+          "height": 290.4,
+          "name": "line",
+          "prop": "line"
+        },
+        "option": {
+          "gridX": 86,
+          "gridY": 0,
+          "gridX2": 9,
+          "gridY2": 0,
+          "nameColor": "#eee",
+          "lineColor": "#eee",
+          "lineWidth": 5,
+          "xNameFontSize": 16,
+          "yNameFontSize": 16,
+          "labelShow": false,
+          "labelShowFontSize": 14,
+          "labelShowFontWeight": 300,
+          "yAxisInverse": false,
+          "xAxisInverse": false,
+          "xAxisShow": true,
+          "yAxisShow": true,
+          "xAxisSplitLineShow": false,
+          "yAxisSplitLineShow": false,
+          "barWidth": 30,
+          "barRadius": 8,
+          "barColor": [
+            {
+              "color1": "rgba(0, 66, 255,100)",
+              "color2": "rgba(54, 255, 217, 1)",
+              "postion": 90,
+              "$index": 0,
+              "_show": true
+            }
+          ],
+          "symbolSize": 10,
+          "smooth": false,
+          "barMinHeight": 2
+        },
+        "left": 1380,
+        "top": 398.4,
+        "index": "d04c84e6-9f46-46e0-8916-24ffa4719e49",
+        "zIndex": 68
+      },
+      {
+        "name": "饼图",
+        "title": "饼图",
+        "icon": "icon-pie",
+        "img": "/img/pie.14e72c57.png",
+        "dataType": 0,
+        "dataMethod": "get",
+        "time": 5000,
+        "url": "./pie",
+        "data": [
+          {
+            "name": "苹果",
+            "value": 1000879,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "三星",
+            "value": 3400879,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "小米",
+            "value": 2300879,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "oppo",
+            "value": 5400879,
+            "url": "http://www.baidu.com"
+          }
+        ],
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "resize": false,
+        "component": {
+          "width": 546.8,
+          "height": 230.84,
+          "name": "pie",
+          "prop": "pie"
+        },
+        "option": {
+          "legend": false,
+          "labelShow": true,
+          "barColor": [
+            {
+              "color1": "#2bf8ff",
+              "color2": "",
+              "$index": 0
+            },
+            {
+              "color1": "#64ea85",
+              "color2": "",
+              "$index": 1
+            },
+            {
+              "color1": "#fe546d",
+              "color2": "",
+              "$index": 2
+            },
+            {
+              "color1": "rgba(104, 73, 231, 1)",
+              "color2": "",
+              "$index": 3
+            }
+          ]
+        },
+        "left": 1357.02,
+        "top": 114.15,
+        "index": "4cb4be90-d9de-4a50-bdfd-5f235e7cce65",
+        "zIndex": 67
+      },
+      {
+        "name": "折线图",
+        "title": "折线图",
+        "icon": "icon-line",
+        "img": "/img/line.d9ed6cf6.png",
+        "dataType": 0,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                72,
+                66,
+                89,
+                74,
+                84,
+                92,
+                88,
+                69,
+                77,
+                91,
+                73,
+                96
+              ]
+            }
+          ]
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 782.4,
+          "height": 313.2,
+          "name": "line",
+          "prop": "line"
+        },
+        "option": {
+          "gridX": 50,
+          "gridY": 0,
+          "gridX2": 0,
+          "gridY2": 0,
+          "nameColor": "#eee",
+          "lineColor": "#eee",
+          "lineWidth": 5,
+          "xNameFontSize": 16,
+          "yNameFontSize": 16,
+          "labelShow": false,
+          "labelShowFontSize": 14,
+          "labelShowFontWeight": 300,
+          "yAxisInverse": false,
+          "xAxisInverse": false,
+          "xAxisShow": true,
+          "yAxisShow": true,
+          "xAxisSplitLineShow": false,
+          "yAxisSplitLineShow": false,
+          "barWidth": 30,
+          "barRadius": 8,
+          "barColor": [
+            {
+              "color1": "rgba(0, 66, 255,100)",
+              "color2": "rgba(0, 66, 255, 0)",
+              "postion": 90,
+              "$index": 0,
+              "_show": true
+            }
+          ],
+          "symbolSize": 6,
+          "smooth": true,
+          "barMinHeight": 2,
+          "areaStyle": true
+        },
+        "left": 561.6,
+        "top": 740.4,
+        "index": "b21880a9-0602-4c39-8c3c-1a3cccda1200",
+        "zIndex": 66
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 992,
+        "left": 404,
+        "dataType": 0,
+        "data": {
+          "value": "11"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 31.2,
+          "height": 24.4,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "rgba(235, 29, 29, 1)",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left"
+        },
+        "index": "9c924b37-e4d7-4dc4-83ed-03214d127206",
+        "zIndex": 65,
+        "lock": true
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 992,
+        "left": 242.4,
+        "dataType": 0,
+        "data": {
+          "value": "23"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 34.8,
+          "height": 24.4,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "rgba(255, 215, 0, 1)",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left"
+        },
+        "index": "95e6353b-d8db-4514-9386-56537567ef6f",
+        "zIndex": 64,
+        "lock": true
+      },
+      {
+        "title": "翻牌器",
+        "name": "翻牌器",
+        "icon": "icon-flop",
+        "img": "data:image/png;base64,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",
+        "top": 992,
+        "left": 64,
+        "dataType": 0,
+        "data": {
+          "value": "1466"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 66,
+          "height": 24.4,
+          "name": "flop",
+          "prop": "flop"
+        },
+        "option": {
+          "type": "",
+          "suffixText": "",
+          "suffixTextAlign": "",
+          "suffixSplit": "",
+          "suffixColor": "",
+          "suffixFontSize": 0,
+          "borderColor": "#fff",
+          "borderWidth": 3,
+          "backgroundBorder": "/img/border/border1.png",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "splitx": 0,
+          "splity": 0,
+          "backgroundColor": "",
+          "color": "rgba(54, 255, 217, 100)",
+          "prefixSplitx": 0,
+          "prefixSplity": 0,
+          "suffixSplitx": 0,
+          "suffixSplity": 0,
+          "textAlign": "left"
+        },
+        "index": "31caee63-589a-4086-a017-cb4a2a8f98f5",
+        "zIndex": 63,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "离线设备数",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "离线设备数"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 372,
+        "top": 962,
+        "index": "26411d1f-07c9-4c21-b5bd-1eebbda68b4c",
+        "zIndex": 62,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "故障设备数",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "故障设备数"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 208.8,
+        "top": 962,
+        "index": "b488e57f-0275-44f1-9af6-895fe31c8d65",
+        "zIndex": 61,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "在线设备数",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "在线设备数"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 48,
+        "top": 962,
+        "index": "ede7d9ef-71fa-497a-8170-97a597911edb",
+        "zIndex": 60,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 842,
+        "left": 351.52,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/6b38dde34ebc9a2bb5b148e4f4b0621b.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 144,
+          "height": 158,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "5b07ca83-4e5a-429c-9f12-cb5a9dc6896c",
+        "zIndex": 59,
+        "lock": true,
+        "display": false
+      },
+      {
+        "name": "datav",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n    data: [30],\n    shape: 'round',\n\t  colors:["#da3434","#
+		ee6c6c "],\n    waveNum:1\n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 72,
+          "height": 72,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-water-level-pond"
+        },
+        "left": 384,
+        "top": 840,
+        "index": "09826ba4-6391-4ca0-82a6-92c07046c61a",
+        "zIndex": 58
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 842,
+        "left": 190.72,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/d2139828bf8c68bca090334afbe02c59.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 144,
+          "height": 158,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "988d2ebb-44a2-46c3-8a24-6f09604ccf49",
+        "zIndex": 57,
+        "lock": true
+      },
+      {
+        "name": "datav",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n    data: ["
+		30 "],\n    shape: 'round',\n\t  colors:["#
+		eab044 ","#
+		f4cd83 "],\n    waveNum:1\n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 72,
+          "height": 72,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-water-level-pond"
+        },
+        "left": 224.4,
+        "top": 838.8,
+        "index": "014b11f5-c6ac-4c5b-8121-8512096cba40",
+        "zIndex": 56
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 842,
+        "left": 32.32,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/f06728f686ba6ef742153f660583b8ed.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 144,
+          "height": 158,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "6fd99c3c-5e35-47c1-895c-29c00f0c4fd1",
+        "zIndex": 55,
+        "lock": true
+      },
+      {
+        "name": "datav",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{console.log(data);return { config:{ data:["30"],  shape: 'round',\n\t  colors:["#35ebfb","#30c3f9"],waveNum:1\n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 72,
+          "height": 72,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-water-level-pond"
+        },
+        "left": 67.2,
+        "top": 837.6,
+        "index": "2fd79da5-1cce-4117-83db-9b38edefac69",
+        "zIndex": 54
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 632.4,
+        "left": 217.2,
+        "data": {
+          "data": 10
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 188,
+          "height": 41.2,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "#fff",
+          "fontSize": 24,
+          "suffixColor": "#fff",
+          "strokeWidth": 13,
+          "fontWeight": "normal",
+          "borderColor": "rgba(94, 38, 255, 100)"
+        },
+        "index": "b068a681-18d9-4437-831a-977ed4b2c413",
+        "zIndex": 53,
+        "dataType": 0,
+        "lock": true
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 594,
+        "left": 217.2,
+        "data": {
+          "data": 10
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 188,
+          "height": 41.2,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "#fff",
+          "fontSize": 24,
+          "suffixColor": "#fff",
+          "strokeWidth": 13,
+          "fontWeight": "normal",
+          "borderColor": "rgba(255, 206, 37, 100)"
+        },
+        "index": "b8dba093-e408-4752-b2eb-790c25d22d4c",
+        "zIndex": 52,
+        "dataType": 0,
+        "lock": true
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 553.2,
+        "left": 214.8,
+        "data": {
+          "data": 25
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 188,
+          "height": 41.2,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "#fff",
+          "fontSize": 24,
+          "suffixColor": "#fff",
+          "strokeWidth": 13,
+          "fontWeight": "normal",
+          "borderColor": "rgba(237, 37, 255, 100)"
+        },
+        "index": "9fe79eb9-8d41-464f-85ee-3b5cb5414f35",
+        "zIndex": 51,
+        "dataType": 0,
+        "lock": true
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5NWEtYmRjZS0yZTI2MGFmZTBlNzYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Yzc1ODJkZGItNzQzNy00OTVhLWJkY2UtMmUyNjBhZmUwZTc2IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6Yzc1ODJkZGItNzQzNy00OTVhLWJkY2UtMmUyNjBhZmUwZTc2Ij4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5NWEtYmRjZS0yZTI2MGFmZTBlNzYiIHN0RXZ0OndoZW49IjIwMTktMTEtMDRUMTU6MDY6NDArMDg6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAoTWFjaW50b3NoKSIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6l0LOLAAAE9klEQVR4nO2abWxTZRTHf/duGAcb4ypuDAiJ5SUhMZumRE0YG7irkQ8gUW40oiYqloAm+PKh8QPxBWM24wc0Gm3UD+AgpiQQskRjWiQBzKZ20cWX+EKr4IQo2W1gS6cGePxw29J2HSvulrbs/LI053mes/899+Q8z909KwiCIAiCIAiCIAiCIAiCIAhXGVqpA7gkNyxk7UssXUlNLbpCV+ikDEVVxqeuqCJrePEHdEVimP7Peec1fv+tSMGWcSobFvPsZySG6NtFwgbQFBpooCkAHVDJz+R82ic1k16a3cDqdcyqZ+N6jsdKeFul4LFutg1QM9M1wdo69h6k823XBLPRi6TrAktW0beL0bOuCY4M07OX21a4JphNGafy2jpGz7isOTJMzXSXNVOUcSrHEAgEbNuORCKGYQBer9e2bdu2PR4PYJpmNBr1+XyOc9pNgB1nad2YHvn9/mg0CgSDwVAoZBiGUsrr9ZqmqZQyDMPJqWP7/f5AIJBH894N9B27YndQNmSn0rZt0zQ7OzstyzIMw7KsUCjkLEWjUY/H4yRaKeXxeGzbzq9ZzFRWzAY3DCMUCsXj8WAw6Pf7M5f6+/tN04zFYrZth8Nhn8/X1dUVDAadFJcq4HIiuyqdcgOcvezz+dJVGQqFvF6vs+SsWpYViURM00z7JJGqJFV6gFOA4XDYGRqG4cwA8Xg8EAhs2rTJsfv7+0sbc9mQXZXOc8a2bedpAwQCAaWUUiq939OnpFObSinLsrI05bGTJufsc3b0eMM8FDOV1UXSLRLORk4Tj8cvMbzClPFZ+fcwNfUua9bWMZpwWTNFGafy50Pc/ojL7Yw1Fl8ccU0wmzJusjUu4ZmDJIbo20kiDvmabIkz9B24+Ctt65g+I3+TbWY999zPrHo2WhyPFiPeMk4l0LCYNS+wdBU1M8Zt/b6yjh96AW5u5+U947Z+R0eIHOXd1zkx1ZqVhaBpbP+UrjCaTlU1bx6icz9aeRdH+bJ4GR+domMDqx9l/yCLWkoYS1UJr+0C9kmaFmI+SHMrvT18srPUAVU0s+fRHWP3LxgNpQ2kwqsSSAxz4TzfHmHgcKlDEQRBEIQrxmW+G8xtpWUL81dQOwdNz/5uCRlfOMn+tomuxkwq9AzPTIe8tl6w59jL6WNDUrmR59yCOo99moGv2PchAxG3U6lX0/4GLZsZ+o5YDyODqHNZGk4cuTOOobLsHIf0DeSxx8xoGZdIaqpx7Lxq40eYOazSaWxieQcLl7Cvmx3bOZe6WRfoeI+n/uGmJ8q9A+IimsbaBzj8I8+/6p5o03K2KlqedE+xclj/ML3HaPZO6FhYid29h9nN7G5GXaBuAeb7zGunetrFXZP/6Mk8v3IOr2w7OZMzTJ16+pilvP5W06RSNm6GNLo/JvYT256+tGNhXfT5d/BrD+oCgPkBC+6k6prJhlgpKMXRg9xy64SOhaVyeiMjg0l7btsk4qpM/jrFdddP6FXG/9upNApLZeJPZsxL2ienXgOmoQl7aEKvwlI5eAjP2uQzKvw4J8Kc/3dy0VUOmkZrB19/6ZLc3Fa2Kpq3uCRXUdz3EL3HaFnmnuLKt6bun+jPvViQe6G6+jTad9CymaHviR1g5I+r/MWxYQ5td3HjosJfHP9fO6ON2sarvJ0RP803l9fOEARBEARBEARBEARBEARBEARBEIQpyH/YlC3CnfCnkAAAAABJRU5ErkJggg==",
+        "top": 514.8,
+        "left": 217.2,
+        "data": {
+          "data": 65
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 188,
+          "height": 41.2,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "#fff",
+          "fontSize": 24,
+          "suffixColor": "#fff",
+          "strokeWidth": 13,
+          "fontWeight": "normal",
+          "borderColor": "rgba(45, 255, 208, 100)"
+        },
+        "index": "5613fdb4-9825-42ae-8bfe-1bfe52fd4e59",
+        "zIndex": 50,
+        "dataType": 0,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "10%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "10%"
+        },
+        "component": {
+          "width": 41.2,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 374.4,
+        "top": 717.6,
+        "index": "50540f44-e874-4a63-8973-d05b33ae7f85",
+        "zIndex": 49
+      },
+      {
+        "title": "文本框",
+        "name": "25%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "18%"
+        },
+        "component": {
+          "width": 41.2,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 375.6,
+        "top": 679.2,
+        "index": "006bf593-b5eb-41a2-837f-e4b28d908cdb",
+        "zIndex": 48
+      },
+      {
+        "title": "文本框",
+        "name": "30%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "30%"
+        },
+        "component": {
+          "width": 41.2,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 168,
+        "top": 715.2,
+        "index": "847a494d-3f0c-42ba-8907-f1fe81206747",
+        "zIndex": 47
+      },
+      {
+        "title": "文本框",
+        "name": "25%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "25%"
+        },
+        "component": {
+          "width": 41.2,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 169.2,
+        "top": 680.4,
+        "index": "31a3692e-ef6a-4d6a-aedc-3a1e9b165934",
+        "zIndex": 46
+      },
+      {
+        "title": "文本框",
+        "name": "路内停车场数量  ",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "路内停车场数量  "
+        },
+        "component": {
+          "width": 97.6,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 73.2,
+        "top": 716.4,
+        "index": "05eadfa4-61e7-486f-ba44-c5f4da620ec0",
+        "zIndex": 45
+      },
+      {
+        "title": "文本框",
+        "name": "路内停车场数量  ",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "路内停车场数量  "
+        },
+        "component": {
+          "width": 97.6,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 284.4,
+        "top": 680.4,
+        "index": "7c381224-07ee-4a22-80c2-20dce793f19e",
+        "zIndex": 44
+      },
+      {
+        "title": "文本框",
+        "name": "路内停车场数量  ",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "路内停车场数量  "
+        },
+        "component": {
+          "width": 97.6,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 286.8,
+        "top": 718.8,
+        "index": "f295dd2b-a4a9-43b8-84bc-732bef758aca",
+        "zIndex": 43
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 674,
+        "left": 252.8,
+        "data": {
+          "data": 100
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 23,
+          "height": 28,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "rgba(255, 255, 255, 0)",
+          "fontSize": 14,
+          "suffixColor": "#fff",
+          "strokeWidth": 0,
+          "fontWeight": "normal",
+          "borderColor": "rgba(237, 37, 255, 100)"
+        },
+        "index": "57e3d813-1a72-43ec-b5e0-37db8816560b",
+        "zIndex": 42,
+        "dataType": 0
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 708.8,
+        "left": 251.6,
+        "data": {
+          "data": 100
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 23,
+          "height": 28,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "rgba(255, 255, 255, 0)",
+          "fontSize": 14,
+          "suffixColor": "#fff",
+          "strokeWidth": 0,
+          "fontWeight": "normal",
+          "borderColor": "rgba(94, 38, 255, 100)"
+        },
+        "index": "970df65b-0aad-43a4-8ddc-f35543eb480e",
+        "zIndex": 41,
+        "dataType": 0
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 708.8,
+        "left": 42.8,
+        "data": {
+          "data": 100
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 23,
+          "height": 28,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "rgba(255, 255, 255, 0)",
+          "fontSize": 14,
+          "suffixColor": "#fff",
+          "strokeWidth": 0,
+          "fontWeight": "normal",
+          "borderColor": "rgba(255, 206, 37, 100)"
+        },
+        "index": "98fcba7a-48a2-4788-8306-f6f64185d57c",
+        "zIndex": 40,
+        "dataType": 0
+      },
+      {
+        "title": "文本框",
+        "name": "路内停车场数量  ",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "路内停车场数量  "
+        },
+        "component": {
+          "width": 97.6,
+          "height": 32.8,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 75.6,
+        "top": 681.6,
+        "index": "0bf9f7a4-4f9a-40ef-b57f-9b5c79b61b09",
+        "zIndex": 39
+      },
+      {
+        "title": "进度条",
+        "name": "进度条",
+        "icon": "icon-progress",
+        "img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABQCAIAAAB3SddxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTExLTA0VDE1OjA2OjQwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0xMS0wNFQxNToxODoxNiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpjNzU4MmRkYi03NDM3LTQ5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",
+        "top": 674,
+        "left": 44,
+        "data": {
+          "data": 100
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 23,
+          "height": 28,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "line",
+          "color": "rgba(255, 255, 255, 0)",
+          "fontSize": 14,
+          "suffixColor": "#fff",
+          "strokeWidth": 0,
+          "fontWeight": "normal",
+          "borderColor": "rgba(45, 255, 208, 100)"
+        },
+        "index": "441ea88a-ef09-490a-9139-8df2dc668622",
+        "zIndex": 38,
+        "dataType": 0
+      },
+      {
+        "name": "饼图",
+        "title": "饼图",
+        "icon": "icon-pie",
+        "img": "/img/pie.14e72c57.png",
+        "dataType": 0,
+        "dataMethod": "get",
+        "time": 5000,
+        "url": "./pie",
+        "data": [
+          {
+            "name": "路内停车场数量",
+            "value": 20000,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "路外停车场数量",
+            "value": 2598,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "场内停车场数量",
+            "value": 1250,
+            "url": "http://www.baidu.com"
+          },
+          {
+            "name": "其他停车场数量",
+            "value": 1250,
+            "url": "http://www.baidu.com"
+          }
+        ],
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "resize": false,
+        "component": {
+          "width": 324.9,
+          "height": 247.2,
+          "name": "pie",
+          "prop": "pie"
+        },
+        "option": {
+          "legend": false,
+          "labelShow": false,
+          "barColor": [
+            {
+              "color1": "#36ffd9",
+              "color2": "",
+              "$index": 0
+            },
+            {
+              "color1": "#ed25ff",
+              "color2": "",
+              "$index": 1
+            },
+            {
+              "color1": "#ffce25",
+              "color2": "",
+              "$index": 2
+            },
+            {
+              "color1": "#5e26ff",
+              "color2": "",
+              "$index": 3
+            }
+          ],
+          "radius": true,
+          "sort": false
+        },
+        "left": -48.98,
+        "top": 462,
+        "index": "274c85fd-8604-47cc-80e7-acd69fdd71ba",
+        "zIndex": 37,
+        "display": false
+      },
+      {
+        "title": "文本框",
+        "name": "66%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "66%"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 30,
+          "fontWeight": "bolder",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 328.8,
+        "top": 396,
+        "index": "5e23774a-3eab-4900-8222-fd9da0ff392e",
+        "zIndex": 36,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "34%",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "34%"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 30,
+          "fontWeight": "bolder",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 86.4,
+        "top": 396,
+        "index": "6efae21f-98da-4805-9015-a27cf2f6626d",
+        "zIndex": 35,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "空闲车位数量",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "空闲车位数量"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 336,
+        "top": 351.6,
+        "index": "f260c760-2965-47fb-9e50-c23f6bad3c16",
+        "zIndex": 34,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "空闲车位数量",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "空闲车位数量"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "color": "#fff",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 88.8,
+        "top": 352.8,
+        "index": "b0022323-5a9d-4a38-992c-29d7c10dec21",
+        "zIndex": 33,
+        "lock": true
+      },
+      {
+        "title": "环形图",
+        "name": "空闲环形图",
+        "icon": "icon-circle",
+        "img": "/img/progress.2d32f6f3.png",
+        "top": 169.2,
+        "left": 318.4,
+        "dataType": 0,
+        "data": {
+          "value": 9022,
+          "data": 80
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 140,
+          "height": 140,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "circle",
+          "strokeWidth": 14,
+          "color": "rgba(154, 168, 212, 1)",
+          "fontSize": 28,
+          "fontWeight": "normal",
+          "suffixColor": "rgba(154, 168, 212, 1)",
+          "suffixFontSize": 24,
+          "suffixFontWeight": "bold",
+          "borderColor": "rgba(45, 255, 208, 100)",
+          "split": 0,
+          "width": 400,
+          "height": 80
+        },
+        "index": "9a233d22-a319-4cb3-85ab-2b6702cfdb3f",
+        "zIndex": 32,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "空闲框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 136.8,
+        "left": 288,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211022/79ded6d7b9a7ac7dece834552ce0d2f5.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 204,
+          "height": 204,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": 1000,
+          "opacity": 0,
+          "rotate": true
+        },
+        "index": "2b25df6e-d9a7-40b0-88b1-313356fd028d",
+        "zIndex": 31,
+        "lock": true
+      },
+      {
+        "title": "环形图",
+        "name": "空闲环形图",
+        "icon": "icon-circle",
+        "img": "/img/progress.2d32f6f3.png",
+        "top": 168,
+        "left": 76,
+        "dataType": 0,
+        "data": {
+          "value": 987,
+          "data": 80
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 140,
+          "height": 140,
+          "name": "progress",
+          "prop": "progress"
+        },
+        "option": {
+          "type": "circle",
+          "strokeWidth": 14,
+          "color": "rgba(154, 168, 212, 1)",
+          "fontSize": 28,
+          "fontWeight": "normal",
+          "suffixColor": "rgba(154, 168, 212, 1)",
+          "suffixFontSize": 24,
+          "suffixFontWeight": "bold",
+          "borderColor": "rgba(45, 255, 208, 100)",
+          "split": 0,
+          "width": 400,
+          "height": 80
+        },
+        "index": "fece397c-ebbe-494f-81c7-955a2a41e053",
+        "zIndex": 30
+      },
+      {
+        "title": "图片",
+        "name": "空闲框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 135.6,
+        "left": 44.4,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211022/79ded6d7b9a7ac7dece834552ce0d2f5.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 204,
+          "height": 204,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": 1000,
+          "opacity": 0,
+          "rotate": true
+        },
+        "index": "5385ffa9-a6d2-4b5b-ade1-037613e29e94",
+        "zIndex": 29,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "停车费用分布",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "停车费用分布"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1394.6,
+        "top": 693.4,
+        "index": "956c7ee6-9f4e-43b9-bf3a-05b38b7a3214",
+        "zIndex": 28,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "今日停车周转",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "今日停车周转"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1394.6,
+        "top": 400.2,
+        "index": "51e83221-e85f-435e-8a8d-2a1cfadd061b",
+        "zIndex": 27,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "停车时长分布",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "停车时长分布"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1394.6,
+        "top": 87.8,
+        "index": "a51bedb0-2da2-495c-af38-71d18ba1770d",
+        "zIndex": 26,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "营收统计",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "营收统计"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 579.6,
+        "top": 744,
+        "index": "d4248a3e-58b6-4212-85f4-bbe129844f8f",
+        "zIndex": 25,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "设备在线统计",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "设备在线统计"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 44.4,
+        "top": 792.2,
+        "index": "1b5e7988-2c78-4411-9bf9-e287c980301a",
+        "zIndex": 24,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "停车资源占比",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "停车资源占比"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 44.4,
+        "top": 491.2,
+        "index": "52dcf2e9-f787-4972-b699-4c31da23b332",
+        "zIndex": 23,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "泊位占用情况",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "泊位占用情况"
+        },
+        "component": {
+          "width": 145.6,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 24,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 44.4,
+        "top": 81.6,
+        "index": "b1c56b40-a5f4-429d-8210-e35ef046ed50",
+        "zIndex": 22,
+        "lock": true
+      },
+      {
+        "name": "右3动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 513.39,
+          "height": 350.23,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 1367.3,
+        "top": 687,
+        "index": "ccedbd99-c761-4b23-85f6-e5685db6db05",
+        "zIndex": 21,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "右3底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 687,
+        "left": 1364,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 354,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "cf49fa46-c7be-4657-bbc1-4d1cb1e738e2",
+        "zIndex": 20,
+        "lock": true
+      },
+      {
+        "name": "右2动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 513.39,
+          "height": 272.85,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 1367.3,
+        "top": 396,
+        "index": "9fce9451-cfdf-4c61-843c-7ae9a9d4efc8",
+        "zIndex": 19,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "右2底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 396,
+        "left": 1364,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 274,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "a0694237-f94a-460a-81ea-e8e41f94b298",
+        "zIndex": 18,
+        "lock": true
+      },
+      {
+        "name": "右1动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 513.39,
+          "height": 296.6,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 1367.3,
+        "top": 84.79,
+        "index": "b3856419-d432-4c8a-8248-d3faed398265",
+        "zIndex": 17,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "右1底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 83.1,
+        "left": 1364,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 298.7,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "73aa22c6-f32b-419f-89d7-1dc4b83efadb",
+        "zIndex": 16,
+        "lock": true
+      },
+      {
+        "name": "中动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 805.21,
+          "height": 298.65,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 546.78,
+        "top": 737.45,
+        "index": "91f0cf49-e1b5-416a-817a-1a34fc73af6d",
+        "zIndex": 15,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "中底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 736,
+        "left": 540,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 820,
+          "height": 302,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "e5888616-44bd-406e-88d6-0b4c5814d811",
+        "zIndex": 14,
+        "lock": true
+      },
+      {
+        "name": "地图",
+        "title": "地图",
+        "icon": "icon-map",
+        "img": "/img/map.8bf92896.png",
+        "data": [
+          {
+            "name": "北京市",
+            "value": 1,
+            "lng": 116.405285,
+            "lat": 39.904989,
+            "zoom": 1
+          },
+          {
+            "name": "广东省",
+            "value": 1,
+            "lng": 113.26140000001,
+            "lat": 23.13152999961,
+            "zoom": 1
+          },
+          {
+            "name": "青海省",
+            "value": 1,
+            "lng": 101.74,
+            "lat": 36.56,
+            "zoom": 1
+          }
+        ],
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 755.6,
+          "height": 609.2,
+          "name": "map",
+          "prop": "map"
+        },
+        "option": {
+          "borderWidth": 2,
+          "scale": 87,
+          "type": 0,
+          "borderColor": "rgba(57, 216, 255, 100)",
+          "areaColor": "#061d33",
+          "banner": true,
+          "bannerTime": 3000,
+          "fontSize": 14,
+          "zoom": 0.5,
+          "empAreaColor": "rgba(35, 183, 229, 0.42)",
+          "empColor": "#fff",
+          "index": "894edc1d-d2f0-4616-962c-8e61083ada71",
+          "mapData": "https://data.bladex.vip/blade-visual/map/data?id=1235103352843448322",
+          "color": "rgba(13, 255, 255, 1)"
+        },
+        "left": 560.14,
+        "top": 239.91,
+        "index": "ed685d3e-5653-455f-bbf8-327c3e84db6e",
+        "zIndex": 13,
+        "dataType": 0
+      },
+      {
+        "name": "左三动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 512.02,
+          "height": 250.44,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 18.62,
+        "top": 787.36,
+        "index": "8e97f2f2-975d-44b2-9f10-57bb69a36f03",
+        "zIndex": 12,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "左3底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 788,
+        "left": 16,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 250,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "5d7b6b45-47fc-4083-8c25-7c2b22199c27",
+        "zIndex": 11,
+        "lock": true
+      },
+      {
+        "name": "左二动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 512.02,
+          "height": 288.5,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 18.62,
+        "top": 485.8,
+        "index": "f324d0a2-0abf-4de8-a6fa-2ffaab3aeca1",
+        "zIndex": 10,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "左2底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 486,
+        "left": 16,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 288,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "c5c90b20-67d0-424b-94ce-07d0ddb2c7cb",
+        "zIndex": 9,
+        "lock": true
+      },
+      {
+        "name": "左一动框",
+        "title": "datav",
+        "icon": "icon-bar",
+        "img": "/img/text6.f13c7072.png",
+        "dataType": 1,
+        "dataMethod": "get",
+        "data": {
+          "categories": [
+            "苹果",
+            "三星",
+            "小米",
+            "oppo",
+            "vivo"
+          ],
+          "series": [
+            {
+              "name": "手机品牌",
+              "data": [
+                1000879,
+                3400879,
+                2300879,
+                5400879,
+                3400879
+              ]
+            }
+          ]
+        },
+        "echartFormatter": "(data)=>{\n  console.log(data);\n  return {\n    config:{\n\t  data: [66] \n\t}\n  }\n}",
+        "url": "./bar",
+        "time": 5000,
+        "component": {
+          "width": 512.02,
+          "height": 397.21,
+          "name": "datav",
+          "prop": "datav"
+        },
+        "option": {
+          "is": "dv-border-box-8"
+        },
+        "left": 18.62,
+        "top": 73.15,
+        "index": "405d5854-e20a-4e9d-8752-4a73ae2589ab",
+        "zIndex": 8,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "左1底框",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": 72,
+        "left": 16,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20210517/92ed616f42341ca836bda7a2a1c72262.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 520,
+          "height": 400,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "e76ca581-036f-4490-b34b-b2a11680a2d8",
+        "zIndex": 7,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "24℃~29℃",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "24℃~29℃"
+        },
+        "component": {
+          "width": 100,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1766.4,
+        "top": 9.6,
+        "index": "2d1ea042-4f3f-4852-891b-ee0091154d58",
+        "zIndex": 6,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "多云转晴",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "多云转晴"
+        },
+        "component": {
+          "width": 88,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "left",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1676.4,
+        "top": 9.6,
+        "index": "bb327312-8aa3-45d9-b5ad-57edc1f72e81",
+        "zIndex": 5,
+        "lock": true
+      },
+      {
+        "title": "文本框",
+        "name": "星期一",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "星期一"
+        },
+        "component": {
+          "width": 76,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 0,
+          "lineHeight": 0
+        },
+        "left": 1594.8,
+        "top": 8.4,
+        "index": "29e4a4d0-e94a-44f1-855c-a616584c9997",
+        "zIndex": 4,
+        "lock": true
+      },
+      {
+        "name": "实时时间",
+        "title": "实时时间",
+        "icon": "icon-datetime",
+        "img": "data:image/png;base64,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",
+        "top": 13.2,
+        "left": 1362,
+        "component": {
+          "width": 239.2,
+          "height": 33.2,
+          "name": "datetime",
+          "prop": "datetime"
+        },
+        "option": {
+          "format": "yyyy-MM-dd hh:mm:ss",
+          "color": "rgba(128, 244, 255, 100)",
+          "textAlign": "left",
+          "fontSize": 22,
+          "fontWeight": "bold"
+        },
+        "index": "fe941d21-7daf-47a0-b550-b22d85861f56",
+        "zIndex": 3
+      },
+      {
+        "title": "文本框",
+        "name": "车泊易只会停车大数据平台",
+        "icon": "icon-text",
+        "img": "/img/text.852a3c54.png",
+        "dataType": 0,
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "data": {
+          "value": "车泊易智慧停车大数据平台"
+        },
+        "component": {
+          "width": 474.4,
+          "height": 40,
+          "name": "text",
+          "prop": "text"
+        },
+        "option": {
+          "textAlign": "center",
+          "fontSize": 30,
+          "fontWeight": "bolder",
+          "color": "rgba(128, 244, 255, 100)",
+          "split": 8,
+          "lineHeight": 0
+        },
+        "left": 692.4,
+        "top": 2.4,
+        "index": "897761c0-6dad-496b-83bc-6c1964a6cfb7",
+        "zIndex": 2,
+        "lock": false
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": -10.92,
+        "left": -10.92,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211022/c87e2b9ef8b004480b573f7204cee382.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 1920,
+          "height": 70,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0
+        },
+        "index": "4f984175-6dba-48a3-9739-39c5b35bf928",
+        "zIndex": 1,
+        "lock": true
+      },
+      {
+        "title": "图片",
+        "name": "图片",
+        "icon": "icon-img",
+        "img": "/img/img.97e50755.png",
+        "top": -9.6,
+        "left": -14.4,
+        "dataType": 0,
+        "data": {
+          "value": "https://oss.bladex.vip/caster/upload/20211025/90a53ccff58de2d1bae6efafda279ba4.png"
+        },
+        "dataFormatter": "",
+        "stylesFormatter": "",
+        "component": {
+          "width": 1920,
+          "height": 1080,
+          "name": "img",
+          "prop": "img"
+        },
+        "option": {
+          "duration": "1000",
+          "opacity": 0.5
+        },
+        "index": "de06e613-d384-43ea-a026-85f7d8497a62",
+        "zIndex": 0,
+        "display": false,
+        "lock": true
+      }
+    ]
+  }
+}
